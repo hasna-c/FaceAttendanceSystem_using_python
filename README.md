@@ -22,7 +22,7 @@ Before running the application, ensure that the following dependencies are insta
 
 ## System Model
 
-   ![System Model Diagram]()
+   ![System Model Diagram](SystemModel.jpg)
 
 
 
