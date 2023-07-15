@@ -20,12 +20,24 @@ Before running the application, ensure that the following dependencies are insta
 - tkinter
 - face_recognition
 
+## System Model
+
+   ![System Model Diagram]()
+
+
 You can install the required dependencies by running the following command:
 
 ```shell
 pip install -r requirements.txt
 
-## System Model Diagram
 
-![System Model Diagram]()
+
+ 
+ 
+
+
+
+
+
+
 
