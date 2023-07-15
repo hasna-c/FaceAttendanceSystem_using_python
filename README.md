@@ -24,19 +24,7 @@ Before running the application, ensure that the following dependencies are insta
 
    ![System Model Diagram](SystemModel.jpg)
 
-
-
-
-
-
 You can install the required dependencies by running the following command:
 
 ```shell
 pip install -r requirements.txt
-
-
-
-
-
-
-
